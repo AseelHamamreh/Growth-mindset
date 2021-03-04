@@ -1,6 +1,6 @@
-# JavaScript
+# JavaScript 
 
-javaScript makes our Webpage more intersting and interactive by modifying its content.
+ makes our Webpage more intersting and interactive by modifying its content.
 firsty we can access content by selecting any element, attribute, or text from an HTML pages using javaScript
 .also, we can modify the content for example adding new page or new feature..etc.
 additional to that, javaScript language allows us to specify a set of steps for the browser to follow,
@@ -13,7 +13,7 @@ An expression evaluates into a single value.There are two types of expressions: 
 SINGLE VALUE expressions that use two or more values in order to return a single value.for example if give the varible X the two values (4+6) we will have a one value fot the varible which is (10).
 Expressions rely on things called operators which allow programmers to create a single value from one or more values. such as assignment operators ( assign a value to a variable), Aarthmetic aperators (Perform basic math +-..etc) and String operators(combine two strings (the +symbol)).
 
-Functions let you group a series of statements together to perform a specific task. If different parts of a script repeat the same task, you can reuse the function (rather than repeating the same set of st atements).
+Functions let you group a series of statements together to perform a specific task. If different parts of a script repeat the same task, you can reuse the function (rather than repeating the same set of st atements). </
 to creat a function you need to give it a name and then write the statements that you needed in order to acheive your goal.
  
 
