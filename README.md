@@ -6,4 +6,4 @@ and this is my reading notes webswite for all luctures.
 * [Markdown](https://aseelhamamreh.github.io/Markdown)
 * [growth mindest](https://aseelhamamreh.github.io/reading-notes/growth)
 * [Git](https://aseelhamamreh.github.io/reading-notes/Git)
-* [JavaScript](https://aseelhamamreh.github.io/reading-notes/JavaScript)
+* [JavaScript](https://aseelhamamreh.github.io/reading-notes/JaveScript)
