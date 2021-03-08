@@ -8,7 +8,7 @@ if we want to show something in our webPage using javaScript we use the followin
 
 ## JavaScrip runs where it is found in the HTML
 
-When the browser comes across a **<script>** element, it stops to load the script and then checks to see if it needs to do anything.
+When the browser comes across a scriptelement, it stops to load the script and then checks to see if it needs to do anything.
 
 The HTML **<script>** element is used in HTML pages to tell the browser to load the JavaScript file.
 
