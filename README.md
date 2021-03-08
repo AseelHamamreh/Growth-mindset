@@ -23,3 +23,6 @@ My name is Aseel and I'm 23 years old. I have studied civil engineering at al-Ba
 
 
 [Loops](https://aseelhamamreh.github.io/reading-notes/loops)
+
+[CSS](https://aseelhamamreh.github.io/reading-notes/css)
+
