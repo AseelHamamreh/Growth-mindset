@@ -12,4 +12,3 @@ I can keep reminding myself to keep on a growth mindest by many ways some of the
 
  My name is Aseel and I'm 23 years old. I have studied civil engineering at al-Balqa applied university. I have a short background knowledge in programming and wish to improve it!
 this is my GitHub portfolio page link: https://github.com/AseelHamamreh
-
