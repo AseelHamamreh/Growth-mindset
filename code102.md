@@ -1,32 +1,25 @@
-# Table of content 201 reading notes :
+# Table of content 102 reading notes :
 
-1. 
+1. [Markdown](https://aseelhamamreh.github.io/reading-notes/Markdown)
 
-2.
 
-3.
+2. [Growth-mindest](https://aseelhamamreh.github.io/reading-notes/growth)
 
-4.
 
-5.
+3. [Git](https://aseelhamamreh.github.io/reading-notes/Git)
 
-6.
 
-7.
+4. [JavaScript](https://aseelhamamreh.github.io/reading-notes/JavaScript)
 
-8.
 
-9.
+5. [DynamicWebPage](https://aseelhamamreh.github.io/reading-notes/dynamic-WebPage)
 
-10.
 
-11.
+6. [ Programming with JavaScript](https://aseelhamamreh.github.io/reading-notes/STR)
 
-12.
+7. [Computer Architecture and Logic](https://aseelhamamreh.github.io/reading-notes/CAL)
 
-13.
 
-14.
+8. [Loops](https://aseelhamamreh.github.io/reading-notes/loops)
 
-15.
-
+9. [CSS](https://aseelhamamreh.github.io/reading-notes/css)
