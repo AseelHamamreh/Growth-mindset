@@ -1,28 +1,12 @@
-My name is Aseel and I'm 23 years old. I have studied civil engineering at al-Balqa applied university. I have a short background knowledge in programming and wish to improve it!
+# Reading notes 
 
-# Table of content:
+My name is Aseel and I'm 23 years old. I have studied civil engineering at al-Balqa applied university. I have a short background knowledge in programming and I wish to improve it!
 
-[Markdown](https://aseelhamamreh.github.io/reading-notes/Markdown)
+this is my **reading notes** website! 
 
+1. ## Code 102 Reading Notes [Table of contents](https://aseelhamamreh.github.io/reading-notes/code102)
 
-[Growth-mindest](https://aseelhamamreh.github.io/reading-notes/growth)
+2. ## Code 201 Reading Notes [Table of contents](https://aseelhamamreh.github.io/reading-notes/code201)
 
-
-[Git](https://aseelhamamreh.github.io/reading-notes/Git)
-
-
-[JavaScript](https://aseelhamamreh.github.io/reading-notes/JavaScript)
-
-
-[DynamicWebPage](https://aseelhamamreh.github.io/reading-notes/dynamic-WebPage)
-
-
-[ Programming with JavaScript](https://aseelhamamreh.github.io/reading-notes/STR)
-
-[Computer Architecture and Logic](https://aseelhamamreh.github.io/reading-notes/CAL)
-
-
-[Loops](https://aseelhamamreh.github.io/reading-notes/loops)
-
-[CSS](https://aseelhamamreh.github.io/reading-notes/css)
+![notes](https://atlassianblog.wpengine.com/wp-content/uploads/2018/07/meeting-notes_featured@2x.png)
 
