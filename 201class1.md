@@ -65,7 +65,31 @@ The **<article>** element acts as a container for any section of a page that cou
 
 ## Duckett HTML book Chapter 18 : Process & Design
 
+When building a site you need to understand and work on the following:
 
+1. **WHO** is the site for?
+2. **WHY** people visit your website?
+3. **WHAT** your visitors are trying to achieve?
+4. **WHAT** information your visitors need? 
+5. **HOW** often people will visit your site?
+
+
+**Site maps** organize the information into section or pages:
+
+![site maps](https://landing.moqups.com/img/content/diagrams/site-maps/ecommerce-shop-sitemap-template.png)
+
+**Wire frame** is simple sketch of the key information that needs to go on each page of a site:
+
+![wireframe](https://www.uprightcommunications.com/wp-content/uploads/2017/12/wireframe-sample.gif)
+
+Gitting your messege across using design:
+* Content.
+* Prioritizing.
+* Organizing.
+
+----
+
+## Duckett JavaScript book Chapter 1 : The ABC of Programming
 
 
 
