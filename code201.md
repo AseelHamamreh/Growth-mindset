@@ -1,32 +1,32 @@
 # Table of content 201 reading notes :
 
- 1. [Class 1-1](https://aseelhamamreh.github.io/reading-notes/201class1)
+1. [Class-01](https://aseelhamamreh.github.io/reading-notes/201class1)
 
- 2.
+2. [class-02][https://aseelhamamreh.github.io/reading-notes/class-02]
 
- 3.
+3. 
 
- 4.
+4. 
 
- 5.
+5. 
 
- 6.
+6. 
 
- 7.
+7. 
 
- 8.
+8. 
 
- 9.
+9. 
 
-10.
+10. 
 
-11.
+11. 
 
-12.
+12. 
 
-13.
+13. 
 
-14.
+14. 
 
-15.
+15. 
 
