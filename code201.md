@@ -2,7 +2,7 @@
 
 1. [Class-01](https://aseelhamamreh.github.io/reading-notes/201class1)
 
-2. [class-02][https://aseelhamamreh.github.io/reading-notes/class-02]
+2. [class-02](https://aseelhamamreh.github.io/reading-notes/class-02)
 
 3. 
 

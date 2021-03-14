@@ -1,4 +1,4 @@
-# Class 1 reading
+# Class-01 reading
 
 ## Duckett HTML book Chapter 1 : Structure
 
