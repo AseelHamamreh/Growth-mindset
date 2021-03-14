@@ -91,6 +91,38 @@ Gitting your messege across using design:
 
 ## Duckett JavaScript book Chapter 1 : The ABC of Programming
 
+**A script** is a series of instructions that a computer can follow to achieve a goal.
+
+You could compare scripts to any of the following:
+* RECIPES
+* HANDBOOKS
+* MANUALS
+
+To write a **script**, you need to first state your goal and then list the tasks that need to be completed in order to achieve it. Start with the big picture of what you want to achieve, and break that down into smaller steps.
+1. DEFINE THE GOAL.
+
+2. WRITE YOU TASKS, you can use FLOWCHART:
+
+![flowchart](https://cacoo.com/wp-app/uploads/2020/07/basic-flowchart-template@2x.png)
+
+3. DESIGN THE SCRIPT:
+
+<img src="class1-3.PNG" alt="steps" />
+
+4. CODE EACH STEP.
+
+
+----
+
+It is best to keep JavaScript code in its own JavaScript file. JavaScript files are text files (like HTML pages and CSS style sheets), but they have the `. j s extension.`
+
+The HTML **<script>** element is used in HTML pages to tell the browser to load the JavaScript file (rather like the <link> element can be used to load a CSS file).
+
+If you view the source code of the page in the browser,the JavaScript will not have changed the HTML, because the script works with the model of the web page that the browser has created.
+
+
+
+
 
 
 
