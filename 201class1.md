@@ -50,5 +50,24 @@ We can add **comments** in HTML pages and it will not be visible in the user's b
 
 ## Duckett HTML book Chapter 17 : HTML5 Layout
 
+The **<header>** and **<footer>** elements can be used for:
+* The main header or footer that appears at the top or bottom of every page on the
+site.
+* A header or footer for an individual **<article>** or **<section>** within the page.
+
+The **<nav>** element is used to contain the major navigational blocks on the site such as the primary site navigation.
+
+<img src="class1-2.PNG" alt="nav" />
+
+The **<article>** element acts as a container for any section of a page that could stand alone and potentially be syndicated.
+
+----
+
+## Duckett HTML book Chapter 18 : Process & Design
+
+
+
+
+
 
 
