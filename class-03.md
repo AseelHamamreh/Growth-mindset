@@ -51,3 +51,64 @@ measurements as they try to
 create designs that are flexible
 across devices which have
 different-sized screens.
+
+![h](https://user.oc-static.com/upload/2018/05/17/15265909024573_p1c5-1.png)
+
+### Limiting Width: min-width, max-width
+
+Some page designs expand and
+shrink to fit the size of the user's
+screen. In such designs, the
+min-width property specifies
+the smallest size a box can be
+displayed at when the browser
+window is narrow, and the
+max-width property indicates
+the maximum width a box can
+stretch to when the browser
+window is wide.
+
+### Limiting Height: min-height, max-height
+
+In the same way that you might
+want to limit the width of a box
+on a page, you may also want
+to limit the height of it. This is
+achieved using the min-height
+and max-height properties.
+
+### Overflowing Content: overflow
+
+The overflow property tells the
+browser what to do if the content
+contained within a box is larger
+than the box itself. It can have
+one of two values:
+* hidden
+* scroll
+
+![over flow](https://i1.wp.com/css-tricks.com/wp-content/uploads/2021/02/overflow-visible.png?fit=570%2C500&ssl=1)
+
+Every box has three available properties that
+can be adjusted to control its appearance:
+1. Border
+2. Margin
+3. Padding
+
+![sa](https://user.oc-static.com/upload/2018/05/17/15265909024573_p1c5-1.png)
+
+### Border Width: border-width
+
+The border-width property
+is used to control the width
+of a border. The value of this
+property can either be given
+in pixels or using one of the
+following values:
+* thin
+* medium
+* thick
+
+![border width](https://www.w3.org/community/webed/wiki/images/0/03/Cssed_border_width.png)
+
+----
