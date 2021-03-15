@@ -65,6 +65,68 @@ We can use css features in HTML structure by three ways:
 
 2. **Inline CSS**; by writing the style feature in the same line of HTML code.
 
+----
+
+## Duckett JavaScript book Chapter 2 : Basic JavaScript Instructions
+
+A script is a series of instructions that a computer can follow one-by-one. Each individual instruction or step is known as a statement. Statements should end with a semicolon.
+
+You should write **comments** to explain what your code does. They help make your code easier to read and understand. This can help you and others who read your code.
+
+A script will have to temporarily store the bits of information it needs to do its job. It can store this data in **variables**.
+Variables are used to temporarily store pieces of information used in the script.
+
+We can declare variables by:
+
+<img src="class28.PNG" alt="headers2" />
+
+We can assign a value for the variable by:
+
+<img src="class29.PNG" alt="headers2" />
+
+Data types:
+* Numerical Data type.
+* Strings Data type.
+* Boolean Data type.
+
+----
+
+## Duckett JavaScript book Chapter 4 : Decisions and Loops
+
+### Comparison operators: Evaluation conditions
+
+`===` Equal to
+`!=` Not Equal to
+`===` Strict equal to
+`!==` Strict not Equal to
+`>` Greater than
+`<` Less than
+`>=` Greater than or equal to
+`<=` less than or equal to
+
+### Logical operators:
+
+`&&` Logical and
+`||` Logical or
+`!` Logical not
+
+### Logical statements:
+
+* Use **if** to specify a block of code to be executed, if a specified condition is true.
+* Use **else** to specify a block of code to be executed, if the same condition is false.
+* Use **else if** to specify a new condition to test, if the first condition is false.
+* Use **switch** to specify many alternative blocks of code to be executed.
+
+----
+
+
+
+
+
+
+
+
+
 
 
 
