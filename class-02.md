@@ -3,7 +3,7 @@
 ## Duckett HTML book Chapter 2 : Text
 
 
-### HTML elements are used t XX o describe the structure of the page.
+### HTML elements are used to describe the structure of the page.
 
 
 ### Headings
