@@ -50,11 +50,11 @@ CSS allows you to create rules that specify how the content of an element should
 
 CSS works by associating rules with HTML elements. These rules govern how the content of specified elements should be displayed. A CSS rule contains two parts: a selector and a declaration.
 
-<img src="class26.png" alt="headers" />
+<img src="class26.PNG" alt="headers" />
 
 CSS declarations sit inside curly brackets and each is made up of two parts: a property and a value, separated by a colon. You can specify several properties in one declaration, each separated by a semi-colon.
 
-<img src="class27.png" alt="headers" />
+<img src="class27.PNG" alt="headers2" />
 
 We can use css features in HTML structure by three ways:
 
