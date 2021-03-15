@@ -4,7 +4,7 @@
 
 2. [class-02](https://aseelhamamreh.github.io/reading-notes/class-02)
 
-3. 
+3. [class-03](https://aseelhamamreh.github.io/reading-notes/class-03)
 
 4. 
 
