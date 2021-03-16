@@ -78,7 +78,7 @@ Variables are used to temporarily store pieces of information used in the script
 
 We can declare variables by:
 
-<img src="/img/class28.PNG" alt="headers2" />
+<img src="img/class28.PNG" alt="headers2" />
 
 We can assign a value for the variable by:
 
