@@ -12,10 +12,10 @@
 4. [JavaScript](https://aseelhamamreh.github.io/reading-notes/code1/JavaScript)
 
 
-5. [DynamicWebPage](https://aseelhamamreh.github.io/reading-notes/code1/dynamic-WebPage)
+5. [DynamicWebPage](https://aseelhamamreh.github.io/reading-notes/code1/dynamic-webPage)
 
 
-6. [ Programming with JavaScript](https://aseelhamamreh.github.io/reading-notes/code1/STR)
+6. [ Programming with JavaScript](https://aseelhamamreh.github.io/reading-notes/code1/str)
 
 7. [Computer Architecture and Logic](https://aseelhamamreh.github.io/reading-notes/code1/CAL)
 
