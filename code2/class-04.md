@@ -16,8 +16,7 @@ CSS treats each HTML element as if it is in its
 own box. This box will either be a block-level
 box or an inline box.
 
-<img src="/images/class4.PNG" alt="layout">
-<img src="class4.PNG" alt="js">
+<img src="/images/class4.PNG" alt="4">
 
 #### Containing Elements
 
@@ -30,7 +29,7 @@ the layout of a page: normal flow, relative positioning, and absolute
 positioning. You specify the positioning scheme using the position
 property in CSS. You can also float elements using the float property.
 
-<img src="class402.PNG" alt="js">
+<img src="/images/class402.PNG" alt="402">
 
 #### Screen Sizes
 
@@ -38,7 +37,7 @@ Different visitors to your site will have different sized screens that show
 different amounts of information, so your design needs to be able to
 work on a range of different sized screens.
 
-<img src="class403.PNG" alt="js">
+<img src="/images/class403.PNG" alt="403">
 
 #### Sc reen Resolution
 
@@ -46,7 +45,7 @@ Resolution refers to the number of dots a screen shows per inch. Some
 devices have a higher resolution than desktop computers and most
 operating systems allow users to adjust the resolution of their screens.
 
-<img src="class404.PNG" alt="js">
+<img src="/images/class404.PNG" alt="403">
 
 #### Page Sizes
 
