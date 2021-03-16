@@ -55,7 +55,20 @@ designers often try to create pages of around 960-1000 pixels wide
 
 ----
 
-## Duckett JavaScript book Chapter  : Functions, Methods, and Objects
+## Duckett JavaScript book Chapter 3 : Functions, Methods, and Objects
+
+Functions let you group a series of statements together to perform a
+specific task. If different parts of a script repeat the same task, you can
+reuse the function (rather than repeating the same set of st atements).
+
+![functions](https://cdn.programiz.com/sites/tutorial2program/files/javascript-function-with-parameter.png)
+
+Calling a function that needs information:
+
+![function](https://miro.medium.com/max/2394/1*AAOGzeTzt0-TBksxkiSyPA.jpeg)
+
+
+
 
 
 
