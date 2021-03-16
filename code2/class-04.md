@@ -31,3 +31,13 @@ property in CSS. You can also float elements using the float property.
 
 <img src="img/class401.PNG." alt="js">
 
+#### Screen Sizes
+
+Different visitors to your site will have different sized screens that show
+different amounts of information, so your design needs to be able to
+work on a range of different sized screens.
+
+
+
+
+
