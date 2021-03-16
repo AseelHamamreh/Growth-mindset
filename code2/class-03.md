@@ -117,7 +117,7 @@ following values:
 
 The JavaScript `for` loop statement allows you to create a loop with three optional expressions. The following illustrates the syntax of the `for` loop statement:
 
-<img src="/img/3.PNG" alt="js">
+<img src="3.PNG" alt="js">
 
 ### * initialization
 The initialization expression initializes the loop. The initialization expression is executed only once when the loop starts. You typically use the initialization is to initialize a counter variable. If you use the var keyword to declare the counter variable, the variable will have either function or global scope. In other words, you can reference the counter variable after the loop ends. However, if you use the let keyword to declare the counter variable, the variable will have a blocked scope, which is only accessible inside the loop.

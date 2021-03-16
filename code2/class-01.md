@@ -13,7 +13,7 @@ We have many elements such as **H1** (heading) and **p** (paragraph), they both 
 Attributes provide additional information about the contents of an element, and they are made of two parts: A name and a value, seperated by an equal sign:
 
 
-<img src="img/class1-1.PNG" alt="Attributes" />
+<img src="class1-1.PNG" alt="Attributes" />
  
 
 
@@ -57,7 +57,7 @@ site.
 
 The **<nav>** element is used to contain the major navigational blocks on the site such as the primary site navigation.
 
-<img src="img/class1-2.PNG" alt="nav" />
+<img src="=class1-2.PNG" alt="nav" />
 
 The **<article>** element acts as a container for any section of a page that could stand alone and potentially be syndicated.
 
@@ -107,7 +107,7 @@ To write a **script**, you need to first state your goal and then list the tasks
 
 3. DESIGN THE SCRIPT:
 
-<img src="img/class1-3.PNG" alt="steps" />
+<img src="class1-3.PNG" alt="steps" />
 
 4. CODE EACH STEP.
 
