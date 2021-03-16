@@ -16,6 +16,7 @@ CSS treats each HTML element as if it is in its
 own box. This box will either be a block-level
 box or an inline box.
 
+<img src="/images/class4.PNG" alt="layout">
 <img src="class4.PNG" alt="js">
 
 #### Containing Elements
@@ -63,7 +64,7 @@ reuse the function (rather than repeating the same set of st atements).
 
 ![functions](https://cdn.programiz.com/sites/tutorial2program/files/javascript-function-with-parameter.png)
 
-Calling a function that needs information:
+### Calling a function that needs information:
 
 ![function](https://miro.medium.com/max/2394/1*AAOGzeTzt0-TBksxkiSyPA.jpeg)
 
