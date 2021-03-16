@@ -15,14 +15,14 @@ HTML has six "levels" of headings:
 
 If there are further sections under the subheadings then the **<h3>** element is used, and so on...
 
-<img src="class2.png" alt="headers" />
+<img src="/images/class2.png" alt="headers" />
 
 ### Paragraphs
 
 To create a paragraph, surround the words that make up the paragraph with an opening **<p>** tag and closing **</p>** tag.
 By default, a browser will show each paragraph on a new line with some space between it and any subsequent paragraphs.
 
-<img src="class22.png" alt="headers" />
+<img src="/images/class22.png" alt="headers" />
 
 ### Bold & Italic
 
@@ -34,12 +34,12 @@ By enclosing words in the tags **<i>** and **</i>** we can make characters appea
 
 If you want to add a line break inside the middle of a paragraph you can use the line break tag **<br />**.
 
-<img src="class23.png" alt="headers" />
+<img src="/images/class23.png" alt="headers" />
 
 
 To create a break between themes — such as a change of topic in a book or a new scene in a play — you can add a horizontal rule between sections using the **<hr />** tag
 
-<img src="class24.png" alt="headers" />
+<img src="/images/class24.png" alt="headers" />
 
 ----
 
@@ -50,11 +50,11 @@ CSS allows you to create rules that specify how the content of an element should
 
 CSS works by associating rules with HTML elements. These rules govern how the content of specified elements should be displayed. A CSS rule contains two parts: a selector and a declaration.
 
-<img src="class26.PNG" alt="headers" />
+<img src="/images/class26.PNG" alt="headers" />
 
 CSS declarations sit inside curly brackets and each is made up of two parts: a property and a value, separated by a colon. You can specify several properties in one declaration, each separated by a semi-colon.
 
-<img src="class27.PNG" alt="headers2" />
+<img src="/images/class27.PNG" alt="headers2" />
 
 We can use css features in HTML structure by three ways:
 
@@ -78,11 +78,11 @@ Variables are used to temporarily store pieces of information used in the script
 
 We can declare variables by:
 
-<img src="class28.PNG" alt="headers2" />
+<img src="/images/class28.PNG" alt="headers2" />
 
 We can assign a value for the variable by:
 
-<img src="class29.PNG" alt="headers2" />
+<img src="/images/class29.PNG" alt="headers2" />
 
 Data types:
 * Numerical Data type.
