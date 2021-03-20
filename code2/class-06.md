@@ -32,7 +32,7 @@ As a browser loads a web page, it creates a model of that page.
 The model is called a DOM tree, and it is stored in the browsers' memory.
 It consists of four main types of nodes.
 
-![dom tree](https://snipcademy.com/img/articles/javascript-document-object-model/dom.svg)
+![dom tree](https://1.bp.blogspot.com/-Z0QnE9eWAnM/XWj6B0TmfmI/AAAAAAAAZps/aRfAU517hg0ovfzgLUTZkmjHD3SXZCoWACLcBGAs/s640/DOM.PNG)
 
 1. THE DOCUMENT NODE.
 2. ELEMENT NODES.
