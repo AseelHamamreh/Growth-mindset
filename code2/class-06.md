@@ -22,18 +22,7 @@ st ring, number, Boolean, array, or
 even another object. The va lue of a
 method is always a function.
 
-<img src="/img2/class6.PNG" alt="class6">
-
-
-### CREATING OBJECTS USING LITERAL NOTATION
-
-<img src="/img2/class06.PNG" alt="class06">
-
-### ACCESSING AN OBJECT AND DOT NOTATION
-
-<img src="/img2/CLASS061.PNG" alt="CLASS061">
-![title](/img2/CLASS061.PNG)
-
+![img1](https://miro.medium.com/max/2722/1*iKJx57JU9sKdff-Os7upyA.png)
 
 ----
 
