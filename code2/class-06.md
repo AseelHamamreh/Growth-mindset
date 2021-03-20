@@ -32,6 +32,8 @@ method is always a function.
 ### ACCESSING AN OBJECT AND DOT NOTATION
 
 <img src="/img2/CLASS061.PNG" alt="CLASS061">
+![title](/img2/CLASS061.PNG)
+
 
 ----
 
