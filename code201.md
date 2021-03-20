@@ -10,8 +10,7 @@
 
 5. [class-05](https://aseelhamamreh.github.io/reading-notes/code2/class-05)
  
-
-6. 
+6. [class-06](https://aseelhamamreh.github.io/reading-notes/code2/class-06) 
 
 7. 
 

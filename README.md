@@ -8,5 +8,5 @@ this is my **reading notes** website!
 
 ## 2. Code 201 Reading Notes [(Table of contents)](https://aseelhamamreh.github.io/reading-notes/code201)
 
-![notes](https://atlassianblog.wpengine.com/wp-content/uploads/2018/07/meeting-notes_featured@2x.png)
+![notes](https://previews.123rf.com/images/mehaniq/mehaniq1810/mehaniq181004542/110564738-javascript-functions-variables-objects-monitor-closeup-of-function-source-code-it-specialist-workpla.jpg)
 
