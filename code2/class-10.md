@@ -1,3 +1,5 @@
+# Class-02 reading Summary
+
 ## Duckett JavaScript book Chapter 10 : Error Handling & Debugging
 
 ### ORDER OF EXECUTION
@@ -24,7 +26,7 @@ Each time a script enters a new execution context, there are two phases of activ
 
 If a JavaScript statement generates an error, then it throws an exception.
 At that point, the interpreter stops and looks for exception-handling code.
-<hr>
+
 
 Error objects can help you find where your mistakes are
 and browsers have tools to help you read them.
@@ -36,8 +38,9 @@ and browsers have tools to help you read them.
 JavaScript has 7 different types of errors. Each creates
 its own error object, which can tell you its line number
 and gives a description of the error.
-<hr>
-!(error)[https://www.tutsmake.com/wp-content/uploads/2020/05/Types-of-Errors-In-JavaScript.jpeg]
+
+
+* Error: Generic error - the other errors are all based upon this error.
 
 * Syntax Error: Syntax has not been followed.
 
