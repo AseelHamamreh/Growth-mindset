@@ -12,11 +12,11 @@
  
 6. [class-06](https://aseelhamamreh.github.io/reading-notes/code2/class-06) 
 
-7. 
+7. [class-07](https://aseelhamamreh.github.io/reading-notes/code2/class-07) 
 
-8. 
+8. [class-08](https://aseelhamamreh.github.io/reading-notes/code2/class-08) 
 
-9. 
+9. [class-09](https://aseelhamamreh.github.io/reading-notes/code2/class-09) 
 
 10. 
 
