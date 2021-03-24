@@ -33,7 +33,7 @@ and browsers have tools to help you read them.
 
 ![error](https://infoheap.com/wp-content/uploads/2016/03/chrome-developer-tools-console-javascript-errors.png)
 
-### Types od Errorr:
+### Types of Errors:
 
 JavaScript has 7 different types of errors. Each creates
 its own error object, which can tell you its line number
