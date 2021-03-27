@@ -120,7 +120,6 @@ This code assigns many values (Fiat, 500, white) to a variable named car:
 
 The values are written as name:value pairs (name and value separated by a colon).
 
-<img src="./img2/obj.PNG">
 
 
 
