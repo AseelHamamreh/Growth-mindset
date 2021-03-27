@@ -1,4 +1,4 @@
-# Class-02 reading Summary
+# Class-10 reading Summary
 
 ## Duckett JavaScript book Chapter 10 : Error Handling & Debugging
 
