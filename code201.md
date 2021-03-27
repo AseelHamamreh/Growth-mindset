@@ -18,9 +18,9 @@
 
 09. [class-09](https://aseelhamamreh.github.io/reading-notes/code2/class-09) 
 
-10. [class-09](https://aseelhamamreh.github.io/reading-notes/code2/class-09) 
+10. [class-10](https://aseelhamamreh.github.io/reading-notes/code2/class-10) 
 
-11. [class-10](https://aseelhamamreh.github.io/reading-notes/code2/class-10) 
+11. [class-11](https://aseelhamamreh.github.io/reading-notes/code2/class-11) 
 
 12. 
 
