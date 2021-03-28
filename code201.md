@@ -22,7 +22,7 @@
 
 11. [class-11](https://aseelhamamreh.github.io/reading-notes/code2/class-11) 
 
-12. 
+12. [class-12](https://aseelhamamreh.github.io/reading-notes/code2/class-12) 
 
 13. 
 
