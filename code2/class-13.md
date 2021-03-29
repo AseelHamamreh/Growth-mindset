@@ -1,7 +1,7 @@
 # Class-12 reading Summary
 
 
-## Local Storage\
+## Local Storage
 
 ![lacalStorage](https://i.morioh.com/201019/6ef1c849.webp)
 
