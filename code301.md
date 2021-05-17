@@ -10,4 +10,6 @@
 08. [Class-08](https://aseelhamamreh.github.io/reading-notes/code3/class-08)
 09. [Class-09](https://aseelhamamreh.github.io/reading-notes/code3/class-09)
 10. [Class-10](https://aseelhamamreh.github.io/reading-notes/code3/class-10)
+11. [Class-11](https://aseelhamamreh.github.io/reading-notes/code3/class-11)
+12. [Class-12](https://aseelhamamreh.github.io/reading-notes/code3/class-12)
 
