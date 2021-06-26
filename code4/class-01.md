@@ -9,14 +9,14 @@
 
 #### Primitive Data Types:
 
-* byte: 
+### byte: 
 - 8-bit 
 - signed two's complement integer
 - has a minimum value of -128 and a maximum value of 127
 - useful for saving memory in large arrays
 - They can also be used in place of int where their limits help to clarify your code
 
-* short: 
+### short: 
 - 16-bit 
 - signed two's complement integer
 - Has a minimum value of -32,768 and a maximum value of 32,767
