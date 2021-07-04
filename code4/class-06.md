@@ -6,9 +6,9 @@
 - can be only abstract methods in the Java interface, not method body.
 - can contain only constants, method signatures, default methods, static methods, and nested types.
 - can only be implemented by classes or extended by other interfaces.
-- onece the interface is defined; any number of classes can be implemented and the class can implement any number of interfaces unlike the inheritance.
+- once the interface is defined; any number of classes can be implemented and the class can implement any number of interfaces unlike the inheritance.
 
-###### benifits of Interfaces:
+###### benefits of Interfaces:
 1. It is used to achieve abstraction.
 2. By interface, we can support the functionality of multiple inheritance.
 3. It can be used to achieve loose coupling.
@@ -33,9 +33,9 @@ interface <interface_name>{
 
 - we can create new classes that are built upon existing classes: 
 * reuse methods and fields of the parent class.
-* dd new methods and fields in your current class.
+* add new methods and fields in your current class.
 
-###### benifits of inheritance: 
+###### benefits of inheritance: 
 1.  Method Overriding.
 2. Code Reusability.
 

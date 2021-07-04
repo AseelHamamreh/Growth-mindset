@@ -16,6 +16,6 @@ Linked Lists types:
 ### Array List vs Linked List:
 
 - Array List takes much than linked list.
-- if we want to delete from the middile of the array, array list needs to shift all next elements to the deleted elements while in linked list it just changed the pointer so it takes less time for implementation for short arrays.
+- if we want to delete from the meddle  of the array, array list needs to shift all next elements to the deleted elements while in linked list it just changed the pointer so it takes less time for implementation for short arrays.
 
 
