@@ -8,4 +8,5 @@
 06. [Class-06](https://aseelhamamreh.github.io/reading-notes/code4/class-06)
 07. [Class-08](https://aseelhamamreh.github.io/reading-notes/code4/class-08)
 08. [Class-09](https://aseelhamamreh.github.io/reading-notes/code4/class-09)
+09. [Class-10](https://aseelhamamreh.github.io/reading-notes/code4/class-10)
 
