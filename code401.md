@@ -16,3 +16,4 @@
 14. [Class-16](https://aseelhamamreh.github.io/reading-notes/code4/class-16)
 15. [Class-17](https://aseelhamamreh.github.io/reading-notes/code4/class-17)
 16. [Class-18](https://aseelhamamreh.github.io/reading-notes/code4/class-18)
+17. [Class-19](https://aseelhamamreh.github.io/reading-notes/code4/class-19)
