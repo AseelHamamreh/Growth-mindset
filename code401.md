@@ -33,5 +33,6 @@
 31. [Class-39](https://aseelhamamreh.github.io/reading-notes/code4/class-39)
 32. [Class-41](https://aseelhamamreh.github.io/reading-notes/code4/class-41)
 33. [Class-42](https://aseelhamamreh.github.io/reading-notes/code4/class-42)
-34. [Class-43](https://aseelhamamreh.github.io/reading-notes/code4/class-43)
-35. [Class-44](https://aseelhamamreh.github.io/reading-notes/code4/class-44)
+34. [Class-42-2](https://aseelhamamreh.github.io/reading-notes/code4/class-42-2)
+35. [Class-43](https://aseelhamamreh.github.io/reading-notes/code4/class-43)
+36. [Class-44](https://aseelhamamreh.github.io/reading-notes/code4/class-44)
